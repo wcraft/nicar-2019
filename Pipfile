@@ -10,7 +10,7 @@ pandas = "*"
 xlrd = "*"
 numpy = "*"
 matplotlib = "*"
-pylab = "*"
+altair = "*"
 
 [dev-packages]
 
